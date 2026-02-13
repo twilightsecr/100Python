@@ -98,3 +98,4 @@ while attempts > 0:
 
 if attempts == 0:
   print("Sorry, you've run out attempts. The secret number was:", secret_number)
+  
